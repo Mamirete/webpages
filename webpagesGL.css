@@ -1,0 +1,21 @@
+/*
+ *Name: Miguel A Mirete
+ *UnityID: mamirete
+ *Date: 4/3/24
+ *Assignment: Independent Assignment
+ *Description: Independent Assignment Styling
+ */
+ 
+body {
+    background-color: #318CE7;
+}
+
+.table-border {
+    border: 2px solid #00FFFF;
+}
+
+#photo-adjust {
+    border: 2px solid #228B22;
+    max-width: 200px;
+    max-height: 250px;
+}
